@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore large media files outside LFS
+*.mov
+
+# Ignore specific files
+Thesis.docx
+app.py
+requirements.py
+
